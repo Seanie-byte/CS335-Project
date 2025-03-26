@@ -1,0 +1,6 @@
+* As a manager, I want to decide which realtors are responsible for each property,  so that I can organise workload
+* As a realtor, I schedule showings for each property I am responsible for, so that I can solicit potential buyers
+* As a seller, I want to list my house so that I can sell it
+* As a buyer, I want to see local houses for sale so that I can move
+
+
