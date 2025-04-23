@@ -1,0 +1,10 @@
+*As a real estate agent, I want to add, edit, and remove property listings with details (price, location, features) so that clients can view available properties.
+*As a potential buyer/renter, I want to search properties by location, price range, and features so that I can find properties matching my criteria.
+*As a client, I want to schedule viewing appointments for properties I'm interested in so that I can see them in person.
+*As a property manager, I want to upload and manage lease agreements, inspection reports, and maintenance records so that all property documentation is centralized.
+*As a tenant, I want to submit maintenance requests with photos and descriptions so that property issues can be addressed promptly.
+*As a tenant, I want to pay rent online through various payment methods so that I can conveniently meet my rental obligations.
+*As a property owner, I want to view income/expense reports for my properties so that I can track financial performance.
+*As a property manager, I want to send bulk notifications to tenants about important updates so that communication is efficient.
+*As a brokerage manager, I want to view market trends and performance metrics so that I can make data-driven business decisions.
+*As a user, I want to access key features from a mobile device so that I can use the system while on the go.
